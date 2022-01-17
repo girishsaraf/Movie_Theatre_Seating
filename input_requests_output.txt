@@ -1,0 +1,60 @@
+R001 J19,J20
+R002 J11,J12,J13,J14
+R003 J3,J4,J5,J6,J7
+R004 I18,I19,I20
+R005 I12,I13
+R001 I7,I8
+R002 I0,I1,I2,I3
+R003 H20
+R004 H10,H11,H12,H13,H14,H15
+R005 H5,H6
+R001 H0,H1
+R002 G17,G18,G19,G20
+R003 G10,G11,G12
+R004 G6
+R005 G2
+R001 F19,F20
+R002 F11,F12,F13,F14
+R003 F7
+R004 F0,F1,F2,F3
+R005 E20
+R001 E14,E15
+R002 E7,E8,E9,E10
+R003 D16,D17,D18,D19,D20
+R004 E1,E2,E3
+R005 D10,D11
+R001 D5,D6
+R002 C17,C18,C19,C20
+R003 D1
+R004 C7,C8,C9,C10,C11,C12
+R005 C2,C3
+R001 B19,B20
+R002 B11,B12,B13,B14
+R003 B5,B6,B7
+R004 B1
+R005 A20
+R001 A14,A15
+R002 A7,A8,A9,A10
+R003 A3
+R004 No space to accomodate request
+R005 No space to accomodate request
+R001 No space to accomodate request
+R002 No space to accomodate request
+R003 No space to accomodate request
+R004 No space to accomodate request
+R005 No space to accomodate request
+R001 No space to accomodate request
+R002 No space to accomodate request
+R003 No space to accomodate request
+R004 No space to accomodate request
+R005 No space to accomodate request
+R001 No space to accomodate request
+R002 No space to accomodate request
+R003 No space to accomodate request
+R004 No space to accomodate request
+R005 No space to accomodate request
+R001 No space to accomodate request
+R002 No space to accomodate request
+R003 No space to accomodate request
+R004 No space to accomodate request
+R005 No space to accomodate request
